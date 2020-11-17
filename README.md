@@ -12,7 +12,7 @@
 
 Projeto retirado no repositório **[App-Ideias](https://github.com/florinpop17/app-ideas)**, que contém 80 ideias de projetos com User Stories.
 
-Para acessar a proposta original do projeto **[Click Aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)**
+Para acessar a proposta original do projeto **[Click Aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)**.
 
 ---
 
