@@ -1,0 +1,74 @@
+body {
+  background-color: #2ecc71;
+}
+
+h1 {
+  font-family: "Alfa Slab One", cursive;
+  font-size: 4em;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.329);
+}
+
+h3 {
+  margin: 5px;
+  padding: 5px;
+  font-weight: 650;
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 2em;
+  line-height: 1em;
+}
+
+.flexbox {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title {
+  margin: 100px 0px 20px 0px;
+  padding: 10px;
+}
+
+.box {
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 5px 5px 5px black;
+}
+
+button {
+  margin-top: 20px;
+  width: 110px;
+  height: 50px;
+  background-color: #16a085;
+  color: white;
+  font-size: 1.3em;
+  border-radius: 10px;
+  border: none;
+}
+
+button:hover {
+  background-color: #1abc9c;
+}
+button:focus {
+  outline: none;
+}
+
+input {
+  height: 2.5em;
+  border-color: #16a085;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.5em;
+}

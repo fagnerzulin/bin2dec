@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/reset_css.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Bin2Dec</title>
+  </head>
+  <body>
+    <header class="flexbox">
+      <div>
+        <h1 class="title">Bin2Dec</h1>
+      </div>
+    </header>
+
+    <main class="flexbox">
+      <div class="box">
+        <h3>Convert a binary number to decimal</h3>
+        <p>
+          Binary:
+          <input onkeyup="inputBinary()" type="text" id="binary" />
+        </p>
+        <p>
+          Decimal:
+          <input type="number" min="0" readonly name="" id="decimal" />
+        </p>
+        <button onclick="outputDecimal()">Convert</button>
+      </div>
+    </main>
+    <script defer src="./js/index.js"></script>
+  </body>
+</html>
