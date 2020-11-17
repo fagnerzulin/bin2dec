@@ -14,6 +14,8 @@ Projeto retirado no repositório **[App-Ideias](https://github.com/florinpop17/a
 
 Para acessar a proposta original do projeto **[Click Aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)**.
 
+**Para ver esse projeto funcionando, [Click Aqui](https://fagnerzulin.github.io/bin2dec/).**
+
 ---
 
 ### User Stories
